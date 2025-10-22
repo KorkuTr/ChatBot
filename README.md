@@ -57,4 +57,8 @@ Bu değerler, hem anlam bütünlüğünü korur hem de FAISS arama isabetini art
 - CUDA destekli NVIDIA GPU (T4 veya üzeri önerilir)
 
 💡 “Gerçek zeka, yalnızca bilgiye erişmek değil, onu doğru bağlamda kullanabilmektir.”
-
+PROJEYE ERİŞİM
+---GOOGLE COLAB----
+https://colab.research.google.com/drive/1Q1SeLxRCoGAEt14iB2VGPauU3RSyd3TN?usp=sharing
+----KAGGLE------
+https://www.kaggle.com/code/korkut61/chatbot?scriptVersionId=270074867
